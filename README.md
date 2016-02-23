@@ -23,6 +23,10 @@
 
 ![Imgur](http://i.imgur.com/i0eKIhc.png)
 
+* Run _bundle install_ so you have all the RubyGems you need from the Gemfile
+
+![Imgur](http://i.imgur.com/O8G8Imu.png)
+
 * There are 3 test servers that are all setup for you to try the code. To have Ruby run the files, type this into your terminal:
 
 ![Imgur](http://i.imgur.com/8EM7NNv.png)
