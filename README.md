@@ -27,7 +27,7 @@
 
 ![Imgur](http://i.imgur.com/O8G8Imu.png)
 
-* There are 3 test servers that are all setup for you to try the code. To have Ruby run the files, type this into your terminal:
+* There are 3 test servers that are all setup for you inside of the *test* folder. For example, type this into your terminal if you want Ruby to run the <code>router_server.rb</code> file:
 
 ![Imgur](http://i.imgur.com/8EM7NNv.png)
 
