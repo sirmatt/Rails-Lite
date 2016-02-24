@@ -1,6 +1,4 @@
-#Rails Lite
-
-## A web server M[VC] framework inspired by the functionality of Ruby on Rails!
+#Rails Lite => A web server M[VC] framework inspired by the functionality of Ruby on Rails!
 
 ### RubyGems Used
 
@@ -10,6 +8,8 @@
 * JSON (for serializing stuff)
 
 ### How to use and run code
+
+_The core code is found in the <code>lib</code> directory._
 
 * You're going to need Ruby installed on your computer to see the magic happen. Follow the directions [here](http://installrails.com/steps/choose_os) and you'll be good to go.
 
